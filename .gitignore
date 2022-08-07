@@ -1,0 +1,12 @@
+# PlatformIO build temp
+.pio
+
+# macOS crap
+.DS_Store
+
+# Empty dirs we don't need
+test/
+lib/
+
+#VSCode stuff
+.vscode/
